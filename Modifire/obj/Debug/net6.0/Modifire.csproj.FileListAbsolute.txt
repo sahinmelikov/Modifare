@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\bin\Debug\net6.0\Modifire.exe
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\bin\Debug\net6.0\Modifire.deps.json
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\bin\Debug\net6.0\Modifire.runtimeconfig.json
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\bin\Debug\net6.0\Modifire.dll
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\bin\Debug\net6.0\Modifire.pdb
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.AssemblyInfo.cs
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.dll
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\refint\Modifire.dll
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.pdb
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\Modifire.genruntimeconfig.cache
+C:\Users\555\OneDrive\Masaüstü\Modifire\Modifire\obj\Debug\net6.0\ref\Modifire.dll
